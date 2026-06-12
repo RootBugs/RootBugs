@@ -6,6 +6,17 @@ Currently focused on programming, security research, open-source development, ar
 
 ---
 
+## GitHub Profile
+
+<p align="left">
+  <img src="https://img.shields.io/badge/dynamic/json?color=blue&label=Followers&query=%24.followers&url=https%3A%2F%2Fapi.github.com%2Fusers%2FRootBugs&logo=github" alt="Followers" />
+  <img src="https://img.shields.io/badge/dynamic/json?color=blue&label=Following&query=%24.following&url=https%3A%2F%2Fapi.github.com%2Fusers%2FRootBugs&logo=github" alt="Following" />
+  <img src="https://img.shields.io/badge/dynamic/json?color=green&label=Public%20Repos&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2FRootBugs&logo=github" alt="Repos" />
+  <img src="https://img.shields.io/badge/dynamic/json?color=orange&label=Gists&query=%24.public_gists&url=https%3A%2F%2Fapi.github.com%2Fusers%2FRootBugs&logo=github" alt="Gists" />
+</p>
+
+---
+
 ## About
 
 I enjoy building things from scratch, understanding how systems work, and exploring the intersection of software, security, and artificial intelligence.
@@ -40,6 +51,10 @@ Build useful systems, solve difficult problems, and continuously improve.
 
 ## Featured Projects
 
+### BasicLLM
+
+Free AI Gateway — 21+ LLM providers behind one OpenAI-compatible endpoint. Next.js 15, Prisma, UCB1 bandit routing.
+
 ### Omega-OS
 
 AI-first operating environment focused on automation, orchestration, memory systems, and intelligent workflows.
@@ -58,6 +73,41 @@ Task management and productivity platform built for modern workflows.
 
 ---
 
+## GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=RootBugs&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RootBugs&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="180" />
+</p>
+
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RootBugs&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="180" />
+</p>
+
+---
+
+## GitHub Trophies
+
+<p align="left">
+  <img src="https://github-profile-trophy.vercel.app/?username=RootBugs&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies" />
+</p>
+
+---
+
+## GitHub Achievements
+
+<p align="left">
+  <img src="https://img.shields.io/badge/🏆%20Arctic%20Code%20Vault%20Contributor-0D1117?style=for-the-badge&logo=github" alt="Arctic Code Vault" />
+  <img src="https://img.shields.io/badge/🦈%20Pull%20Shark-0D1117?style=for-the-badge&logo=github" alt="Pull Shark" />
+  <img src="https://img.shields.io/badge/⭐%20Starstruck-0D1117?style=for-the-badge&logo=github" alt="Starstruck" />
+  <img src="https://img.shields.io/badge/🎯%20YOLO-0D1117?style=for-the-badge&logo=github" alt="YOLO" />
+  <img src="https://img.shields.io/badge/🔥%20Quickdraw-0D1117?style=for-the-badge&logo=github" alt="Quickdraw" />
+  <img src="https://img.shields.io/badge/💡%20Pair%20Extraordinaire-0D1117?style=for-the-badge&logo=github" alt="Pair Extraordinaire" />
+  <img src="https://img.shields.io/badge/📦%20Public%20Sponsor-0D1117?style=for-the-badge&logo=github" alt="Public Sponsor" />
+</p>
+
+---
+
 ## GitHub Activity
 
 <picture>
@@ -65,15 +115,6 @@ Task management and productivity platform built for modern workflows.
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RootBugs/RootBugs/output/github-contribution-grid-snake.svg" />
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/RootBugs/RootBugs/output/github-contribution-grid-snake.svg" />
 </picture>
-
----
-
-## Achievements
-
-* Arctic Code Vault Contributor
-* Pull Shark
-* Open Source Contributor
-* Consistent Builder
 
 ---
 
