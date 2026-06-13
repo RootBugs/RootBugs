@@ -107,15 +107,15 @@ Task management and productivity platform built for modern workflows.
     <img src="https://skillicons.dev/icons?i=github" />
   </a>
 
-  <a href="https://linkedin.com/in/your-linkedin">
+  <a href="https://linkedin.com/in/effestier">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
 
-  <a href="mailto:your-email@example.com">
+  <a href="mailto:your-email@rootbugs.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
 
-  <a href="https://x.com/yourhandle">
+  <a href="https://x.com/effestier">
     <img src="https://skillicons.dev/icons?i=twitter" />
   </a>
 </p>
@@ -133,6 +133,4 @@ Task management and productivity platform built for modern workflows.
 ---
 
 <p align="center">
-  RootBugs
-</p>
-# KARAN Snake workflow test
+  RootBugs | Karan
