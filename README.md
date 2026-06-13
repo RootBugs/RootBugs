@@ -86,14 +86,6 @@ Task management and productivity platform built for modern workflows.
 
 ---
 
-## GitHub Trophies
-
-<p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=RootBugs&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies" />
-</p>
-
----
-
 ## GitHub Achievements
 
 <p align="left">
@@ -105,16 +97,6 @@ Task management and productivity platform built for modern workflows.
   <img src="https://img.shields.io/badge/💡%20Pair%20Extraordinaire-0D1117?style=for-the-badge&logo=github" alt="Pair Extraordinaire" />
   <img src="https://img.shields.io/badge/📦%20Public%20Sponsor-0D1117?style=for-the-badge&logo=github" alt="Public Sponsor" />
 </p>
-
----
-
-## GitHub Activity
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RootBugs/RootBugs/output/karan-snake.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RootBugs/RootBugs/output/karan-snake.svg" />
-  <img alt="🐍 KARAN Snake - eating all green dots to spell KARAN" src="https://raw.githubusercontent.com/RootBugs/RootBugs/output/karan-snake.svg" />
-</picture>
 
 ---
 
